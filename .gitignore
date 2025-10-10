@@ -1,0 +1,14 @@
+# Ignore virtual environments
+karate_env/
+.venv/
+
+# Ignore cache and temp files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
