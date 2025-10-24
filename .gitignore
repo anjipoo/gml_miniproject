@@ -1,3 +1,7 @@
+# Ignore large data files
+data/*.csv
+data/**/*.sif
+
 # Ignore virtual environments
 karate_env/
 .venv/
